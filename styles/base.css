@@ -1,0 +1,21 @@
+@media screen and (min-width: 480px) and (max-width: 960x) {
+    body{
+        margin: 0px;
+        box-sizing: border-box;
+        height: 100%;
+        padding: 0px;
+        width: 100%;
+    
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body{
+        margin: 0px;
+        box-sizing: border-box;
+        height: 100%;
+        padding: 0px;
+        width: 100%;
+    
+    }
+}
