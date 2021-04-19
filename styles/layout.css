@@ -72,6 +72,7 @@
             height: 190px;
              width: 250px;
              line-height: 190px;
+             float: left;
         
         }
         
@@ -88,3 +89,4 @@
     
 
     
+    /* @media screen and (max-width: 480px) { */
